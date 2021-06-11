@@ -588,6 +588,7 @@ o:value("tcp", translate("TCP"))
 o:value("tls", translate("TLS"))
 o:value("https", translate("HTTPS"))
 o:value("quic", translate("QUIC"))
+o:value("sdns", translate("SDNS"))
 o.default     = "udp"
 o.rempty      = false
 
